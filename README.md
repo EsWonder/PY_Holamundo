@@ -28,17 +28,22 @@ To run the program, use:
 # **Dockerization**
 
 # Step 1: Build the Docker Image
+```bash
 docker build -t python-hello-world .
-
+```
 # Step 2: Tag the Image
+
+```bash 
 docker tag python-hello-world <your-username>/python-hello-world:latest
-
+```
 # Step 3: Push the Image to Docker Hub
+```bash 
 docker push <your-username>/python-hello-world:latest
-
+```
 
 ## Docker Hub Link
-
+```bash 
+```
 
 ## License
 
