@@ -43,7 +43,8 @@ docker push <your-username>/python-hello-world:latest
 
 ## Docker Hub Link
 ```bash 
-docker pull eswonder/python-hello-world
+https://hub.docker.com/r/eswonder/python-hello-world
+
 ```
 
 ## License
